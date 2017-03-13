@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+1、第一周作业
 
-Things you may want to cover:
+2、基础建设 完成
 
-* Ruby version
+3、上架后台 CRUD 完成
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+4、admin 可以登录后台 完成
